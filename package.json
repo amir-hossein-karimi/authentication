@@ -1,0 +1,20 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/jwt": "^6.7.1",
+    "@fastify/swagger": "^8.5.0",
+    "@fastify/swagger-ui": "^1.8.1",
+    "couchbase": "^4.2.3",
+    "fastify": "^4.17.0",
+    "fastify-bcrypt": "^1.0.1"
+  }
+}
